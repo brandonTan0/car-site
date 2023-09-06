@@ -1,0 +1,37 @@
+.body {
+    height: 35rem !important;
+    width: 100vw;
+    background-color: black;
+    margin: 0;
+    overflow: hidden;
+    /* padding: auto; */
+}
+
+#car-img-track > .image {
+    width: 40vmin;
+    height: 56vmin;
+    object-fit: cover;
+    object-position: 65% 50%;
+    user-select: none;
+}
+
+#car-img-track {
+    background-color: black;
+    display: flex;
+    gap: 4vmin;
+    position: absolute;
+    padding: auto;
+    left: 50%;
+    top: 50%;
+    transform: translate(-35%, 100%);
+}
+
+.arrow {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    font-size: 50px;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
