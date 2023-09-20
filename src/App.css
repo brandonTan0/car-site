@@ -22,7 +22,7 @@ body {
 }
 
 .services {
-    background-image: url('/Users/brandontan/Desktop/car-site/public/car-pics/bugatti.webp'); 
+    background-image: url('/public/car-pics/bugatti.webp'); 
     background-position: center;
     background-size: cover;
     color: rgb(255, 255, 255);
@@ -30,7 +30,7 @@ body {
   }
 
   .products {
-    background-image: url('/Users/brandontan/Desktop/car-site/public/car-pics/mclaren.jpeg'); 
+    background-image: url('/public/car-pics/mclaren.jpeg'); 
     background-position: center;
     background-size: cover;
     color: rgb(255, 255, 255);
@@ -38,7 +38,7 @@ body {
   }
 
   .sign-up {
-    background-image: url('/Users/brandontan/Desktop/car-site/public/car-pics/lambo2.jpeg'); 
+    background-image: url('/public/car-pics/lambo2.jpeg'); 
     background-position: center;
     background-size: cover;
     color: rgb(255, 255, 255);
@@ -46,7 +46,7 @@ body {
   }
 
   .cars {
-    background-image: url('/Users/brandontan/Desktop/car-site/public/car-pics/supercar.png'); 
+    background-image: url('/public/car-pics/supercar.png'); 
     background-position: center;
     background-size: cover;
     color: rgb(49, 47, 47);
