@@ -15,7 +15,7 @@ Welcome to Racecar Realm, your go-to platform for exploring a world of luxury an
 
 ## Demo
 
-Check out the live website of Racecar Realm [here](#) [(https://racecar-realm.netlify.app/)].
+Check out the live website of Racecar Realm (https://racecar-realm.netlify.app/).
 
 ## Getting Started
 
